@@ -4,7 +4,7 @@ Task:
 Extract the main characters, locations, and key events from the following story.
 
 Story:
-{{STORY}}
+{STORY}
 
 Output format:
 - Characters:
